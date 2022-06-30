@@ -4,6 +4,7 @@
  */
 
 package com.mycompany.vuyoaquariumproject;
+import VuyoBusiness.bsLectures;
 
 /**
  *
