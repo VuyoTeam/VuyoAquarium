@@ -16,6 +16,8 @@ import Parametres.*;
 public class VuyoAquariumProject {
 
     public static void main(String[] args) {
+        // això és un comentari ordinador del Jordi.
+        
         
         /*
         int ph = 6, gh = 70, no3 = -5;
